@@ -1,0 +1,5 @@
+calisan isminde bir class tanimlayiniz properties/fields (isim, maas, maasKatSayisi)
+constructor ve maas hesapla methodu ekleyiniz. to string methodu ekleyiniz
+genelMudur isimli bir classi calisan sinifindan turetip extra field olarak tazminat ekleyiniz
+genelMudur classinda maasHesaplaya tazminat da ekleyiniz
+sirketMain diye yazacaginiz mainde bir calisan ve bir genelmudur tanimlayarak maaslari hesaplatip, bordroyu yazdiriniz
