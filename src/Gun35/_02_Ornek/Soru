@@ -1,0 +1,10 @@
+1- asagidaki hiyerarşiye gore siniflari olsuturunuz
+Sekil-> alan, cevre, toString
+Daire
+Dikdortgen
+Kare
+turetilen siniflardan uygun olanlara yaricap uzunluk ve genislik ekleyiniz
+her bir sinifa constructor ekleyiniz
+her methodun toString ini override yapiniz
+her sinifta alan ve cevre hesaplamasi methodlarini ekleyiniz
+Mainde bunlardan nesne olusturup sonuclari yazdiriniz
